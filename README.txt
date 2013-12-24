@@ -7,7 +7,7 @@ You can also purchase a kit with all the components, PCB, and preflashed microco
 here --> http://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?search_type=jamecoall&catalogId=10001&freeText=sleeplite&langId=-1&productId=2184157&storeId=10001&ddkey=http:StoreCatalogDrillDownView
 
 Full tutorial with pictures, code, etc. is available 
-here --> http://raptorbird.com/RaptorBird/SleepLite_Kit.html
+here --> http://raptorbird.com/sleeplite-kit.php
 
 I invested time and resources into making SleepLite fully open source and accessible, please support me by buying from Jameco or by contacting me for one directly at contact@raptorbird.com.
 
